@@ -140,7 +140,7 @@ void display( screen s) {
   /* For some reason, this refuses to run correctly
      on some systems. Most likely a strange imagemagick
      install issue. 
-     Above is a workaroudn for now.
+     Above is a workaround for now.
   int x, y;
   FILE *f;
 
